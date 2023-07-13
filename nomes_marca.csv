@@ -1,0 +1,744 @@
+;Modelo
+Silverado 1500;156
+Tundra;140
+F-150;126
+Sierra 1500;90
+Beetle Convertible;89
+Tacoma;80
+Frontier;76
+GTI;76
+Accord;75
+Beetle;67
+Dakota;65
+Ram Pickup 1500;62
+C/K 1500 Series;56
+Colorado;54
+XC60;54
+Jetta;53
+3;53
+370Z;51
+Sienna;51
+Golf GTI;50
+Sierra 1500 Classic;49
+Silverado 1500 Classic;49
+Canyon;48
+Transit Wagon;48
+Pilot;48
+F-250;48
+Transit Connect;46
+Passat;45
+Jetta GLI;44
+E-Class;44
+Jetta SportWagen;42
+CTS;42
+RAM 150;40
+B-Series Pickup;40
+Sonic;40
+A3;40
+XL7;39
+ATS;39
+Sorento;38
+Truck;38
+Ranger;37
+Q50;36
+Expedition;36
+New Beetle;36
+Sonata;36
+S-10;35
+ATS Coupe;35
+Titan;35
+MDX;34
+Corolla;34
+350Z;34
+Impreza;34
+Forenza;34
+Civic;33
+SX4;33
+CC;32
+Acadia;32
+CR-V;32
+Camry Solara;32
+09/mar;32
+Kizashi;32
+Esteem;31
+Aerio;31
+S-10 Blazer;31
+Jimmy;31
+Journey;31
+Tribute;31
+B9 Tribeca;30
+Veloster;30
+TrailBlazer;30
+Juke;30
+300;30
+200;29
+3 Series;29
+300-Class;29
+Terrain;29
+CX-5;29
+XL-7;29
+C-Class;29
+4 Series;29
+Colt;29
+Range Rover Evoque;28
+Forte;28
+S60;28
+Durango;28
+Murano;28
+Pathfinder;28
+Encore;28
+MX-5 Miata;28
+Outlander Sport;28
+Camaro;28
+XTS;27
+Explorer Sport Trac;27
+Sequoia;27
+Venza;27
+Traverse;26
+4Runner;26
+Tiguan;26
+850;26
+Pickup;26
+RAM 250;25
+WRX;25
+A4;25
+Forester;24
+Crosstour;24
+Nitro;24
+Integra;24
+Mustang;24
+Routan;24
+Cruze;24
+Tucson;24
+RDX;24
+RAV4;24
+Altima;24
+Alero;24
+Suburban;24
+Explorer;23
+Equinox;23
+Equator;23
+Sidekick;23
+Spectra;23
+Elantra;23
+Ridgeline;23
+Q70;23
+G Sedan;23
+TL;23
+900;23
+Uplander;23
+A6;22
+Neon;22
+Venture;22
+Edge;22
+Rabbit;22
+Cobalt;22
+Highlander;22
+Trax;22
+Ramcharger;22
+GLI;22
+Shadow;22
+CTS Wagon;22
+G6;22
+Rio;21
+Yaris;21
+SRX;21
+Dart;21
+Xterra;21
+Fiesta;21
+Lucerne;21
+V60;21
+Element;21
+TLX;21
+Tracker;21
+Golf;21
+Armada;20
+CX-7;20
+Q5;20
+Rogue;20
+Outback;20
+Sebring;20
+Tiburon;20
+F-150 Heritage;20
+Montero Sport;20
+LaCrosse;20
+Challenger;20
+Cavalier;20
+Passport;20
+MKC;20
+Camry;19
+S-15;19
+CX-9;19
+Ram 50 Pickup;19
+Legacy;19
+Sentra;19
+Lancer;18
+Outlander;18
+Flex;18
+Q60 Coupe;18
+E-Series Van;18
+E-Series Wagon;18
+Impreza WRX;18
+Yukon XL;18
+Envoy;18
+Grand Vitara;18
+Sonoma;18
+Yukon;18
+Santa Fe;18
+Genesis Coupe;18
+Explorer Sport;18
+S-15 Jimmy;18
+XC70;18
+MKX;18
+Aveo;18
+Accent;18
+CTS Coupe;18
+Corvette;18
+Tahoe;18
+Windstar;18
+Sportage;18
+Charger;18
+Taurus;18
+Touareg;18
+9-3 Griffin;18
+Pacifica;17
+Express;17
+Malibu;17
+Focus;17
+G Coupe;17
+Fusion;17
+Stratus;17
+2 Series;17
+Town and Country;17
+Grand Am;17
+XC90;17
+Regal;17
+Montana;17
+Savana;17
+Five Hundred;16
+Magnum;16
+Freestyle;16
+5 Series;16
+Legend;16
+Envoy XL;16
+Caliber;16
+Sunbird;16
+Celica;16
+Santa Fe Sport;16
+Previa;16
+G35;16
+Vitara;16
+Cutlass Calais;16
+740;16
+Navigator;16
+TSX;16
+HR-V;16
+MKZ;16
+ILX;16
+Grand Caravan;16
+1 Series;16
+Raider;15
+Avalanche;15
+Reno;15
+Avalon;15
+Rondo;15
+Q7;15
+6;15
+RSX;15
+Baja;15
+Firebird;15
+500;15
+500X;15
+Voyager;15
+T100;15
+Ram Cargo;15
+Enclave;15
+Sedona;15
+Matrix;15
+Optima;15
+Silhouette;15
+100;15
+M;15
+Odyssey;15
+tC;14
+940;14
+Blazer;14
+Q3;14
+Cabrio;14
+Verano;14
+Daytona;14
+Eclipse;14
+DTS;14
+S70;14
+XV Crosstrek;14
+Expo;14
+4 Series Gran Coupe;14
+HHR;14
+Sundance;14
+CT6;14
+Savana Cargo;14
+LTD Crown Victoria;13
+Golf SportWagen;13
+500L;13
+G37;13
+E-150;13
+B-Series;13
+X3;12
+EX35;12
+ECHO;12
+Spark;12
+Veracruz;12
+Yukon Hybrid;12
+Cutlass Ciera;12
+Silverado 1500 Hybrid;12
+Navajo;12
+Ram Van;12
+Maxima;12
+Quest;12
+RLX;12
+RL;12
+Soul;12
+Crossfire;12
+Taurus X;12
+CX-3;12
+300ZX;12
+Aerostar;12
+Le Baron;12
+BRZ;12
+Laser;12
+X5;12
+Captiva Sport;12
+S4;12
+EX;12
+Impala;12
+NX 200t;12
+Sierra 1500 Hybrid;12
+CLK-Class;12
+TrailBlazer EXT;12
+Elantra Touring;12
+2;12
+FR-S;12
+GS 350;11
+Monte Carlo;11
+Solstice;11
+09/mai;11
+Escape;11
+LS;11
+FX;11
+Protege;11
+Tempo;11
+Terraza;11
+5;11
+626;11
+Vanagon;11
+M-Class;11
+Excel;11
+Malibu Maxx;11
+Vandura;11
+RX 350;11
+B-Series Truck;11
+LR4;10
+5 Series Gran Turismo;10
+A7;10
+xB;10
+Justy;10
+9000;10
+Mark LT;10
+QX60;10
+Cube;10
+Eighty-Eight Royale;10
+H3;10
+Grand Voyager;10
+STS;10
+Torrent;10
+Aviator;10
+Stealth;10
+Avenger;10
+xD;10
+E-250;10
+Golf R;10
+DeVille;10
+Crosstrek;10
+Range Rover Sport;10
+Accord Crosstour;10
+Endeavor;10
+A5;9
+Caravan;9
+Escort;9
+Civic del Sol;9
+Scoupe;9
+LR2;9
+Z3;9
+Loyale;9
+Escalade EXT;9
+Chevy Van;9
+Cabriolet;9
+CL;9
+CLA-Class;9
+3000GT;9
+Le Mans;9
+Concorde;9
+Continental;9
+200SX;9
+Discovery Sport;9
+SLK-Class;9
+Diamante;9
+Millenia;9
+MKS;9
+Cruze Limited;9
+FJ Cruiser;9
+GLA-Class;9
+S5;9
+Intrigue;9
+Vibe;9
+Roadmaster;9
+Borrego;9
+Bonneville;9
+GLK-Class;9
+Freelander;9
+Impala Limited;9
+Bronco;9
+90;9
+Z4;9
+Elantra Coupe;8
+IS 250;8
+Contour;8
+QX50;8
+Sportvan;8
+Elise;8
+240;8
+240SX;8
+MPV;8
+Skylark;8
+Grand Prix;8
+9-7X;8
+Town Car;8
+allroad;8
+allroad quattro;8
+Intrepid;8
+Cadenza;8
+Bronco II;8
+Thunderbird;8
+500-Class;8
+Freestar;8
+S40;8
+Genesis;8
+Sephia;8
+SVX;8
+6000;8
+G Convertible;8
+Probe;8
+S80;8
+Envision;8
+C/K 2500 Series;8
+G20;8
+PT Cruiser;8
+Trans Sport;7
+Ninety-Eight;7
+S2000;7
+Prelude;7
+X-90;7
+MX-6;7
+Stanza;7
+X4;7
+X6;7
+Tercel;7
+J30;7
+Aspen;7
+Lancer Evolution;7
+H3T;7
+Eclipse Spyder;7
+Eighty-Eight;7
+Fox;7
+ZDX;7
+Macan;7
+Boxster;7
+Bravada;7
+3 Series Gran Turismo;7
+Eldorado;7
+Caprice;7
+Eos;7
+GLE-Class;7
+Cutlass Supreme;7
+Sierra 1500HD;6
+RC 350;6
+Elantra GT;6
+XG350;6
+GX 460;6
+R-Class;6
+TSX Sport Wagon;6
+Highlander Hybrid;6
+City Express;6
+968;6
+Rally Wagon;6
+Rainier;6
+TT;6
+Dynasty;6
+960;6
+C30;6
+QX80;6
+QX70;6
+I30;6
+GL-Class;6
+Rendezvous;6
+QX56;6
+Escape Hybrid;6
+EuroVan;6
+Evora;6
+Safari;6
+Safari Cargo;6
+Festiva;6
+Fit;6
+Black Diamond Avalanche;6
+Beretta;6
+FX35;6
+S3;6
+Aztek;6
+Toronado;6
+Azera;6
+G37 Sedan;6
+RX 400h;6
+G5;6
+RX 330;6
+RX 300;6
+Astro;6
+Galant;6
+Astro Cargo;6
+Equus;6
+Discovery;6
+Monaco;6
+Vigor;6
+MR2;6
+NV200;6
+LSS;6
+Mustang SVT Cobra;6
+Lumina Minivan;6
+Verona;6
+MX-3;6
+Supra;6
+Mark VII;6
+Park Avenue;6
+Versa;6
+Mark VIII;6
+SQ5;6
+QX4;6
+X1;6
+M35;6
+M45;6
+NX;6
+Tahoe Hybrid;6
+300M;6
+80;6
+LeSabre;6
+IS 350;6
+Discovery Series II;6
+V50;6
+Q60 Convertible;6
+MKT;6
+V60 Cross Country;6
+MR2 Spyder;6
+XT5;6
+Lancer Sportback;6
+190-Class;6
+Cutlass;6
+Prizm;6
+xA;6
+Cayman;6
+Breeze;5
+Sunfire;5
+Mighty Max Pickup;5
+323;5
+G37 Coupe;5
+S90;5
+Touareg 2;5
+CLS-Class;5
+4C;5
+IS 300;5
+Golf Alltrack;5
+Entourage;5
+Tribeca;5
+Achieva;5
+Seville;5
+Lumina;5
+Prowler;5
+9-4X;5
+Ram Wagon;5
+M30;5
+K900;5
+Cascada;5
+G8;5
+Aurora;5
+SLX;4
+Escalade;4
+ES 350;4
+Defender;4
+Spirit;4
+Sierra Classic 1500;4
+Catera;4
+Cayenne;4
+Electra;4
+Z4 M;4
+Envoy XUV;4
+Corvette Stingray;4
+Corrado;4
+GS 200t;4
+Civic CRX;4
+Brougham;4
+Tribute Hybrid;4
+Mazdaspeed 6;4
+350-Class;4
+Malibu Limited;4
+400-Class;4
+M4;4
+560-Class;4
+Paseo;4
+9-2X;4
+V70;4
+Q45;4
+V40;4
+Exige;4
+QX;4
+TTS;4
+944;4
+Rogue Select;4
+GLC-Class;4
+GS 300;4
+Samurai;4
+Reatta;4
+Axxess;4
+Aspire;4
+Riviera;4
+C43 AMG;3
+Windstar Cargo;3
+C70;3
+Acclaim;3
+Century;3
+Ciera;3
+124 Spider;3
+Cirrus;3
+C36 AMG;3
+760;3
+A4 allroad;3
+8 Series;3
+V8;3
+928;3
+Amanti;3
+929;3
+Allante;3
+ActiveHybrid 5;3
+TC;3
+XT;3
+SC 400;3
+GX 470;3
+GS 460;3
+G37 Convertible;3
+RX 450h;3
+LR3;3
+RS 5;3
+M3;3
+Ghibli;3
+LX 470;3
+GS 400;3
+GS 430;3
+GS 450h;3
+GTO;3
+Focus ST;3
+Contour SVT;3
+I35;3
+Phaeton;3
+Imperial;3
+LS 460;3
+IS 250 C;3
+LS 430;3
+IS 350 C;3
+IS F;3
+LS 400;3
+FX45;3
+G80;3
+Fleetwood;3
+Malibu Classic;3
+SSR;3
+SS;3
+Montero;3
+Coupe;3
+Cressida;3
+Crown Victoria;3
+Murano CrossCabriolet;3
+Custom Cruiser;3
+Mazdaspeed MX-5 Miata;3
+Mazdaspeed 3;3
+Malibu Hybrid;3
+LHS;3
+New Yorker;3
+ES 330;3
+SC 430;3
+SC 300;3
+F-150 SVT Lightning;3
+ES 300;3
+Versa Note;2
+Metris;2
+Van;2
+Vanwagon;2
+86;2
+Montana SV6;2
+Mazdaspeed Protege;2
+420-Class;2
+780;2
+M37;2
+M2;2
+M56;2
+718 Cayman;2
+LX 450;2
+Classic;2
+GLE-Class Coupe;2
+RS 4;2
+Corolla iM;2
+Swift;2
+Celebrity;2
+Corsica;2
+Tahoe Limited/Z71;2
+SLC-Class;2
+XG300;2
+E55 AMG;2
+ES 250;2
+Express Cargo;2
+S6;2
+FX50;2
+iM;2
+Protege5;2
+Regency;2
+RC 300;2
+RC 200t;2
+Acadia Limited;2
+TT RS;2
+IS 200t;2
+R32;2
+Typhoon;2
+JX;2
+Q40;2
+Yukon Denali;1
+Yaris iA;1
+XC;1
+1 Series M;1
+V90;1
+Syclone;1
+7 Series;1
+Blackwood;1
+Cayman S;1
+Escalade Hybrid;1
+Estate Wagon;1
+Focus RS;1
+G3;1
+GLS-Class;1
+Horizon;1
+Levante;1
+Metro;1
+ML55 AMG;1
+Omni;1
+Precis;1
+Pulsar;1
+S60 Cross Country;1
+Sierra C3;1
+Sigma;1
+Sixty Special;1
+Zephyr;1
